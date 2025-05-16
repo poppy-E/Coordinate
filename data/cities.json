@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Nelamangala",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-05-16T09:32:14.644Z",
+      "notes": "went trekking with collage mates",
+      "position": {
+        "lat": "13.102217513557752",
+        "lng": "77.39868164062501"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Denkanikota",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-05-16T09:32:37.191Z",
+      "notes": "want to go on trip one day--",
+      "position": {
+        "lat": "12.531774787272981",
+        "lng": "77.82440185546876"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Robertsonpet",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2025-05-16T09:32:54.790Z",
+      "notes": "went on last year ",
+      "position": {
+        "lat": "12.979133130990242",
+        "lng": "78.37234497070314"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Idri",
+      "country": "Libya",
+      "emoji": "🇱🇾",
+      "date": "2025-05-16T09:33:21.159Z",
+      "notes": "akbar allllla",
+      "position": {
+        "lat": "27.994401411046148",
+        "lng": "15.644531250000002"
+      },
+      "id": 98443201
+    }
+  ]
+}
