@@ -25,12 +25,6 @@ Coordinate is a modern React application that allows users to track cities they'
 
 ---
 
-## 🖼️ Screenshots
-
-> ![Screenshot](./public/screenshot.png)
-
----
-
 ## 🧪 Fake API Setup (JSON Server)
 
 This project uses `JSON Server` as a mock backend to simulate CRUD operations.
